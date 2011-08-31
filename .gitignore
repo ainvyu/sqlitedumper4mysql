@@ -1,0 +1,9 @@
+
+*.sdf
+*.opensdf
+*.vcxproj.user
+ipch/
+Debug/
+Release/
+sqlitedumper4mysql/Debug/
+sqlitedumper4mysql/Release/
