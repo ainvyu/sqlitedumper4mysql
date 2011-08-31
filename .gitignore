@@ -2,6 +2,8 @@
 *.sdf
 *.opensdf
 *.vcxproj.user
+*.docstates.suo
+*.suo
 ipch/
 Debug/
 Release/
